@@ -2,7 +2,7 @@ from bs4 import BeautifulSoup
 import requests
 from twilio.rest import Client
 
-url = 'https://www.google.com/'
+url = 'https://afesl007.github.io/'
 # Your Account SID from twilio.com/console
 account_sid = "######################"
 # Your Auth Token from twilio.com/console
