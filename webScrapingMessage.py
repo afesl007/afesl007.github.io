@@ -74,8 +74,8 @@ body = 'Free Postmates!\n\n' + '\n'.join(free_food)
 client = Client(account_sid, auth_token)
 
 message = client.messages.create(
-    to="+12026044570",
-    from_="+12028310725",
+    to="##########",
+    from_="#############",
     body=body
 )
 
