@@ -8,8 +8,8 @@ account_sid = "######################"
 # Your Auth Token from twilio.com/console
 auth_token  = "########################"
 
-twilio_phone_number = '+12028310725'
-my_phone_number = '+12026044570'
+twilio_phone_number = '##########'
+my_phone_number = '###########'
 
 # This function attempts to get the content from the url.
 # To do this it makes a HTTP request.
